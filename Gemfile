@@ -7,7 +7,7 @@ gem 'bson_ext', '1.6.4'
 
 gem 'rqrcode', '0.4.2'
 
-gem 'jquery-rails', '1.0.19'
+gem 'jquery-rails', '3.1.5'
 gem 'haml', '3.1.7'
 gem 'simple_form', '1.5.2'
 gem 'awesome_nested_fields', '0.6.0'
